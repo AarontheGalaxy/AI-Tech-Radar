@@ -1,0 +1,8 @@
+requests==2.32.2
+praw==7.7.1
+arxiv==2.1.0
+feedparser==6.0.10
+ollama==0.1.7
+rich==13.7.1
+python-dotenv==1.0.1
+textual==0.86.2
