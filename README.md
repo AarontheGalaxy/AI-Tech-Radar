@@ -59,7 +59,7 @@ ai-tech-radar/
 
    ```bash
    git clone https://github.com/AarontheGalaxy/AI-Tech-Radar.git
-   cd ai-tech-radar
+   cd AI-Tech-Radar
    ```
 
 2. **Set up a virtual environment**
