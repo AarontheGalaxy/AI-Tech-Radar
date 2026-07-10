@@ -1,5 +1,7 @@
 # AI Tech Radar
 
+[![CI](https://github.com/AarontheGalaxy/AI-Tech-Radar/actions/workflows/ci.yml/badge.svg)](https://github.com/AarontheGalaxy/AI-Tech-Radar/actions/workflows/ci.yml)
+
 A Python CLI tool that automatically fetches the latest tech and AI news from multiple sources, processes them with a local LLM (Ollama), and generates a clean daily summary report.
 
 ## Features
