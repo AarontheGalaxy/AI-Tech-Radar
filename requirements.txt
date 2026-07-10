@@ -6,3 +6,4 @@ ollama==0.1.7
 rich==13.7.1
 python-dotenv==1.0.1
 textual==0.86.2
+pytest==8.3.4
