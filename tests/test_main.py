@@ -36,7 +36,7 @@ class TestMainRefactor(unittest.TestCase):
     @patch('main.process_and_summarize')
     @patch('main.save_report')
     @patch('main.launch_interactive')
-    @patch('builtins.input', side_effect=['n'])
+    @patch('builtins.input', side_effect=['n', 'y'])
     @patch('builtins.print')
     @patch('main.time.time', side_effect=[100, 105])
     def test_main_interactive_no(self, mock_time, mock_print, mock_input, mock_launch, mock_save, mock_process, mock_fetch, mock_dotenv):
